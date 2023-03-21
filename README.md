@@ -1,5 +1,7 @@
 # flutterbook
 
+## VARIABLES
+
 ### 변수를 만드는 2가지 방법
 ```dart
 void main() {

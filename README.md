@@ -5,9 +5,9 @@
 ### 변수를 만드는 2가지 방법
 ```dart
 void main() {
-var name = "pizza"; // 방법 1
-name = "chicken ";
-String name2 = "chicken"; // 방법 2
+var name = "moon"; // 방법 1
+name = "sun ";
+String name2 = "sun"; // 방법 2
 }
 ```
 
